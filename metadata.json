@@ -1,0 +1,6 @@
+{
+  "name": "TradeVeda - Indian Stock Market Paper Trading",
+  "description": "Virtual paper trading platform for Indian stock markets (NSE/BSE) with real and delayed market data, professional candlestick charts, ₹10,00,000 virtual balance, and zero real-money risk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

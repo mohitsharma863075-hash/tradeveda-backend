@@ -1,0 +1,1326 @@
+{
+  "users": [
+    {
+      "id": "usr_1790873322392_rzp940",
+      "name": "Test Trader",
+      "email": "test_trader_1790873322297@test.in",
+      "passwordHash": "$2b$10$EWUKBjKMNniH0rgMaBVL4eWSiOm1jHF5wbj5HZ9sZZ4TCMVl2wXUO",
+      "isAdmin": false,
+      "createdAt": "2026-10-01T16:48:42.392Z"
+    },
+    {
+      "id": "usr_1790873349035_70n350",
+      "name": "Test Trader",
+      "email": "test_trader_1790873348912@test.in",
+      "passwordHash": "$2b$10$m4gJGlzI4gBlAZNRX.tXtewH2n.xTPF2cgXwCZNkJxlWgxT1XVznm",
+      "isAdmin": false,
+      "createdAt": "2026-10-01T16:49:09.035Z"
+    },
+    {
+      "id": "usr_1790873877703_wt0gvi",
+      "name": "Test Trader",
+      "email": "test_trader_1790873877585@test.in",
+      "passwordHash": "$2b$10$M25MguZB2LgotOka8EQZpuFvIzSb13MgRkAzVHZRbluRSWvsjZ6d6",
+      "isAdmin": false,
+      "createdAt": "2026-10-01T16:57:57.703Z"
+    },
+    {
+      "id": "usr_1790874266128_cneoq7",
+      "name": "Test Trader",
+      "email": "test_trader_1790874266016@test.in",
+      "passwordHash": "$2b$10$PHPrhv/QcsT3oFBB687ATuwFUTnhzL.cMLF8.6waWvUCtzDIrrEL6",
+      "isAdmin": false,
+      "createdAt": "2026-10-01T17:04:26.128Z"
+    },
+    {
+      "id": "usr_1790874328337_3pdq13",
+      "name": "Test Trader",
+      "email": "test_trader_1790874328209@test.in",
+      "passwordHash": "$2b$10$xXihBP9RQeN/gnRcoTVTNuQQEQoUitS59EbKR5GXrMxoXhId02mvK",
+      "isAdmin": false,
+      "createdAt": "2026-10-01T17:05:28.338Z"
+    },
+    {
+      "id": "usr_1790874663792_g785l0",
+      "name": "Test Trader",
+      "email": "test_trader_1790874663679@test.in",
+      "passwordHash": "$2b$10$jSyBIeANpJLbv65bXz2K6ujDJSuxWsSvQniEG1r6f7nltFBtMn806",
+      "isAdmin": false,
+      "createdAt": "2026-10-01T17:11:03.793Z"
+    },
+    {
+      "id": "usr_1790875101713_4fftkd",
+      "name": "Test Trader",
+      "email": "test_trader_1790875101586@test.in",
+      "passwordHash": "$2b$10$QXwBZdKUuhhLzLq5vP3X5OnjsNyeKDBKXgvTXgrO5NZQcf53.mclW",
+      "isAdmin": false,
+      "createdAt": "2026-10-01T17:18:21.713Z"
+    },
+    {
+      "id": "usr_1790926649876_7cqjie",
+      "name": "Mohit",
+      "email": "mohitsharma863075@gmail.com",
+      "passwordHash": "$2b$10$oAflZ3pS47wNfKTl50HOXe48ZExsXwUNQxD80CBKO254NhsKQ7vie",
+      "isAdmin": false,
+      "createdAt": "2026-10-02T07:37:29.876Z"
+    },
+    {
+      "id": "usr_1790926660174_3dwqhy",
+      "name": "Rahul Verma",
+      "email": "rahul.verma@gmail.com",
+      "passwordHash": "$2b$10$9C8iwRkypiKTtWm32MrBMuJJzw.yccI6qepkoJz3wcJY/SYVigOjO",
+      "isAdmin": false,
+      "createdAt": "2026-10-02T07:37:40.174Z"
+    },
+    {
+      "id": "usr_1790926669667_3ujhch",
+      "name": "Test Trader",
+      "email": "test_trader_1790926669549@test.in",
+      "passwordHash": "$2b$10$4226FPUmLejTB5u8gHO6G.QNFIMu7IY35rhgdYUAopGGCg0GPKm0.",
+      "isAdmin": false,
+      "createdAt": "2026-10-02T07:37:49.668Z"
+    },
+    {
+      "id": "usr_1790927167957_oux4zq",
+      "name": "Test Trader",
+      "email": "test_trader_1790927167838@test.in",
+      "passwordHash": "$2b$10$8Gwl5UQxURnHRG6yX0KPAehumCCdvp.7Le13FXKMqv4LxBxA3nLBS",
+      "isAdmin": false,
+      "createdAt": "2026-10-02T07:46:07.957Z"
+    },
+    {
+      "id": "usr_1790927789587_ejm5ds",
+      "name": "Test Trader",
+      "email": "test_trader_1790927789474@test.in",
+      "passwordHash": "$2b$10$zqJU..nh0hXGVUeIEiUMRuyXRnOZAmXHsdBw7900L/pqnCxCRQGOC",
+      "isAdmin": false,
+      "createdAt": "2026-10-02T07:56:29.587Z"
+    },
+    {
+      "id": "usr_1790928002953_36rv9i",
+      "name": "Test Trader",
+      "email": "test_trader_1790928002838@test.in",
+      "passwordHash": "$2b$10$4VRU8e9NMYoNbxFIY6wyyOj0gD/xf0P184vUmwfSYQYgblBQrakPG",
+      "isAdmin": false,
+      "createdAt": "2026-10-02T08:00:02.953Z"
+    },
+    {
+      "id": "usr_1790928793734_r94il6",
+      "name": "Test Trader",
+      "email": "test_trader_1790928793618@test.in",
+      "passwordHash": "$2b$10$fz0/Qxl.gMK7rEk8PwV6Cu3iWET8mdxR8bhOuufQtujPOF0xGwhYm",
+      "isAdmin": false,
+      "createdAt": "2026-10-02T08:13:13.734Z"
+    },
+    {
+      "id": "usr_1791969424913_t9sza6",
+      "name": "Test Trader",
+      "email": "test_trader_1791969424793@test.in",
+      "passwordHash": "$2b$10$g3C4eq0UdrY9W00Ht4SLSeb8oVmyl4B2VLTx41XuyTtly1CCt/b4a",
+      "isAdmin": false,
+      "createdAt": "2026-10-14T09:17:04.913Z"
+    },
+    {
+      "id": "usr_1791975899974_kongpz",
+      "name": "Test Trader",
+      "email": "test_trader_1791975899853@test.in",
+      "passwordHash": "$2b$10$9HKTTu4k3bGCudkw1gA.xu5VXHeREnD2Aobyd89G0Kh22QsJltG2y",
+      "isAdmin": false,
+      "createdAt": "2026-10-14T11:04:59.974Z"
+    },
+    {
+      "id": "usr_1791976387939_bkba5l",
+      "name": "Test Trader",
+      "email": "test_trader_1791976387823@test.in",
+      "passwordHash": "$2b$10$x96tIF/EUu8KbutaiUkyYOXx/lhYHADD6Yny3fwxNk0WvBBYew3fi",
+      "isAdmin": false,
+      "createdAt": "2026-10-14T11:13:07.939Z"
+    },
+    {
+      "id": "usr_1791976438302_ndfjgq",
+      "name": "Test Trader",
+      "email": "test_trader_1791976438194@test.in",
+      "passwordHash": "$2b$10$f5lW2lU9ILxkeRfEF59g0eQyq.1N9B/rDzlmONn4SJdWv5s8vkv2K",
+      "isAdmin": false,
+      "createdAt": "2026-10-14T11:13:58.302Z"
+    },
+    {
+      "id": "usr_1792045983282_82x4f8",
+      "name": "Test Trader",
+      "email": "test_trader_1792045983167@test.in",
+      "passwordHash": "$2b$10$Ipco1Tf2OPvJUWgOr8OzEeXqrbS3Xd4TIJSQVRqFZxnReXw64IeOS",
+      "isAdmin": false,
+      "createdAt": "2026-10-15T06:33:03.282Z"
+    },
+    {
+      "id": "usr_1792058911131_fg96gy",
+      "name": "mohit sharma",
+      "email": "designedbymohit.in@gmail.com",
+      "passwordHash": "$2b$10$IA2D5Mq7TJt5f0czPpTHXuhw99PeNUtDKni2ehle6NzQxht2ixfvq",
+      "isAdmin": false,
+      "createdAt": "2026-10-15T10:08:31.131Z"
+    },
+    {
+      "id": "usr_1792058944741_1adko3",
+      "name": "Test Trader",
+      "email": "test_trader_1792058944613@test.in",
+      "passwordHash": "$2b$10$PedJTxo3WF10V5UX8swV1e3PxMFfK6FUaW.K7xjSC4xwravRijDQW",
+      "isAdmin": false,
+      "createdAt": "2026-10-15T10:09:04.741Z"
+    }
+  ],
+  "virtualAccounts": {
+    "usr_demo123": {
+      "userId": "usr_demo123",
+      "startingBalance": 1000000,
+      "availableCash": 1000000,
+      "investedValue": 0,
+      "portfolioValue": 1000000,
+      "totalPnL": 0,
+      "totalReturnPercent": 0,
+      "todayPnL": 0,
+      "realizedPnL": 0,
+      "unrealizedPnL": 0,
+      "tradesCount": 0,
+      "profitableTradesCount": 0,
+      "lossTradesCount": 0,
+      "lastResetAt": "2026-10-01T17:07:09.684Z",
+      "challengeActive": true,
+      "challengeStartedAt": "2026-10-01T17:07:09.684Z"
+    },
+    "usr_1790873322392_rzp940": {
+      "userId": "usr_1790873322392_rzp940",
+      "startingBalance": 1000000,
+      "availableCash": 1000000,
+      "investedValue": 0,
+      "portfolioValue": 1000000,
+      "totalPnL": 0,
+      "totalReturnPercent": 0,
+      "todayPnL": 0,
+      "realizedPnL": 0,
+      "unrealizedPnL": 0,
+      "tradesCount": 0,
+      "profitableTradesCount": 0,
+      "lossTradesCount": 0,
+      "lastResetAt": "2026-10-01T16:48:42.622Z",
+      "challengeActive": true,
+      "challengeStartedAt": "2026-10-01T16:48:42.622Z"
+    },
+    "usr_1790873349035_70n350": {
+      "userId": "usr_1790873349035_70n350",
+      "startingBalance": 1000000,
+      "availableCash": 1000000,
+      "investedValue": 0,
+      "portfolioValue": 1000000,
+      "totalPnL": 0,
+      "totalReturnPercent": 0,
+      "todayPnL": 0,
+      "realizedPnL": 0,
+      "unrealizedPnL": 0,
+      "tradesCount": 0,
+      "profitableTradesCount": 0,
+      "lossTradesCount": 0,
+      "lastResetAt": "2026-10-01T16:49:09.229Z",
+      "challengeActive": true,
+      "challengeStartedAt": "2026-10-01T16:49:09.229Z"
+    },
+    "usr_1790873877703_wt0gvi": {
+      "userId": "usr_1790873877703_wt0gvi",
+      "startingBalance": 1000000,
+      "availableCash": 1000000,
+      "investedValue": 0,
+      "portfolioValue": 1000000,
+      "totalPnL": 0,
+      "totalReturnPercent": 0,
+      "todayPnL": 0,
+      "realizedPnL": 0,
+      "unrealizedPnL": 0,
+      "tradesCount": 0,
+      "profitableTradesCount": 0,
+      "lossTradesCount": 0,
+      "lastResetAt": "2026-10-01T16:57:57.873Z",
+      "challengeActive": true,
+      "challengeStartedAt": "2026-10-01T16:57:57.873Z"
+    },
+    "usr_1790874266128_cneoq7": {
+      "userId": "usr_1790874266128_cneoq7",
+      "startingBalance": 1000000,
+      "availableCash": 1000000,
+      "investedValue": 0,
+      "portfolioValue": 1000000,
+      "totalPnL": 0,
+      "totalReturnPercent": 0,
+      "todayPnL": 0,
+      "realizedPnL": 0,
+      "unrealizedPnL": 0,
+      "tradesCount": 0,
+      "profitableTradesCount": 0,
+      "lossTradesCount": 0,
+      "lastResetAt": "2026-10-01T17:04:26.314Z",
+      "challengeActive": true,
+      "challengeStartedAt": "2026-10-01T17:04:26.314Z"
+    },
+    "usr_1790874328337_3pdq13": {
+      "userId": "usr_1790874328337_3pdq13",
+      "startingBalance": 1000000,
+      "availableCash": 1000000,
+      "investedValue": 0,
+      "portfolioValue": 1000000,
+      "totalPnL": 0,
+      "totalReturnPercent": 0,
+      "todayPnL": 0,
+      "realizedPnL": 0,
+      "unrealizedPnL": 0,
+      "tradesCount": 0,
+      "profitableTradesCount": 0,
+      "lossTradesCount": 0,
+      "lastResetAt": "2026-10-01T17:05:28.512Z",
+      "challengeActive": true,
+      "challengeStartedAt": "2026-10-01T17:05:28.512Z"
+    },
+    "usr_1790874663792_g785l0": {
+      "userId": "usr_1790874663792_g785l0",
+      "startingBalance": 1000000,
+      "availableCash": 1000000,
+      "investedValue": 0,
+      "portfolioValue": 1000000,
+      "totalPnL": 0,
+      "totalReturnPercent": 0,
+      "todayPnL": 0,
+      "realizedPnL": 0,
+      "unrealizedPnL": 0,
+      "tradesCount": 0,
+      "profitableTradesCount": 0,
+      "lossTradesCount": 0,
+      "lastResetAt": "2026-10-01T17:11:03.986Z",
+      "challengeActive": true,
+      "challengeStartedAt": "2026-10-01T17:11:03.986Z"
+    },
+    "usr_1790875101713_4fftkd": {
+      "userId": "usr_1790875101713_4fftkd",
+      "startingBalance": 1000000,
+      "availableCash": 1000000,
+      "investedValue": 0,
+      "portfolioValue": 1000000,
+      "totalPnL": 0,
+      "totalReturnPercent": 0,
+      "todayPnL": 0,
+      "realizedPnL": 0,
+      "unrealizedPnL": 0,
+      "tradesCount": 0,
+      "profitableTradesCount": 0,
+      "lossTradesCount": 0,
+      "lastResetAt": "2026-10-01T17:18:21.906Z",
+      "challengeActive": true,
+      "challengeStartedAt": "2026-10-01T17:18:21.906Z"
+    },
+    "usr_1790926649876_7cqjie": {
+      "userId": "usr_1790926649876_7cqjie",
+      "startingBalance": 1000000,
+      "availableCash": 1000000,
+      "investedValue": 0,
+      "portfolioValue": 1000000,
+      "totalPnL": 0,
+      "totalReturnPercent": 0,
+      "todayPnL": 0,
+      "realizedPnL": 0,
+      "unrealizedPnL": 0,
+      "tradesCount": 0,
+      "profitableTradesCount": 0,
+      "lossTradesCount": 0,
+      "lastResetAt": "2026-10-02T07:45:37.392Z",
+      "challengeActive": true,
+      "challengeStartedAt": "2026-10-02T07:45:37.392Z"
+    },
+    "usr_1790926660174_3dwqhy": {
+      "userId": "usr_1790926660174_3dwqhy",
+      "startingBalance": 1000000,
+      "availableCash": 1000000,
+      "investedValue": 0,
+      "portfolioValue": 1000000,
+      "totalPnL": 0,
+      "totalReturnPercent": 0,
+      "todayPnL": 0,
+      "realizedPnL": 0,
+      "unrealizedPnL": 0,
+      "tradesCount": 0,
+      "profitableTradesCount": 0,
+      "lossTradesCount": 0,
+      "lastResetAt": "2026-10-02T07:37:40.174Z",
+      "challengeActive": true,
+      "challengeStartedAt": "2026-10-02T07:37:40.174Z"
+    },
+    "usr_1790926669667_3ujhch": {
+      "userId": "usr_1790926669667_3ujhch",
+      "startingBalance": 1000000,
+      "availableCash": 1000000,
+      "investedValue": 0,
+      "portfolioValue": 1000000,
+      "totalPnL": 0,
+      "totalReturnPercent": 0,
+      "todayPnL": 0,
+      "realizedPnL": 0,
+      "unrealizedPnL": 0,
+      "tradesCount": 0,
+      "profitableTradesCount": 0,
+      "lossTradesCount": 0,
+      "lastResetAt": "2026-10-02T07:37:49.862Z",
+      "challengeActive": true,
+      "challengeStartedAt": "2026-10-02T07:37:49.862Z"
+    },
+    "usr_1790927167957_oux4zq": {
+      "userId": "usr_1790927167957_oux4zq",
+      "startingBalance": 1000000,
+      "availableCash": 1000000,
+      "investedValue": 0,
+      "portfolioValue": 1000000,
+      "totalPnL": 0,
+      "totalReturnPercent": 0,
+      "todayPnL": 0,
+      "realizedPnL": 0,
+      "unrealizedPnL": 0,
+      "tradesCount": 0,
+      "profitableTradesCount": 0,
+      "lossTradesCount": 0,
+      "lastResetAt": "2026-10-02T07:46:08.136Z",
+      "challengeActive": true,
+      "challengeStartedAt": "2026-10-02T07:46:08.136Z"
+    },
+    "usr_1790927789587_ejm5ds": {
+      "userId": "usr_1790927789587_ejm5ds",
+      "startingBalance": 1000000,
+      "availableCash": 1000000,
+      "investedValue": 0,
+      "portfolioValue": 1000000,
+      "totalPnL": 0,
+      "totalReturnPercent": 0,
+      "todayPnL": 0,
+      "realizedPnL": 0,
+      "unrealizedPnL": 0,
+      "tradesCount": 0,
+      "profitableTradesCount": 0,
+      "lossTradesCount": 0,
+      "lastResetAt": "2026-10-02T07:56:29.799Z",
+      "challengeActive": true,
+      "challengeStartedAt": "2026-10-02T07:56:29.799Z"
+    },
+    "usr_1790928002953_36rv9i": {
+      "userId": "usr_1790928002953_36rv9i",
+      "startingBalance": 1000000,
+      "availableCash": 1000000,
+      "investedValue": 0,
+      "portfolioValue": 1000000,
+      "totalPnL": 0,
+      "totalReturnPercent": 0,
+      "todayPnL": 0,
+      "realizedPnL": 0,
+      "unrealizedPnL": 0,
+      "tradesCount": 0,
+      "profitableTradesCount": 0,
+      "lossTradesCount": 0,
+      "lastResetAt": "2026-10-02T08:00:03.149Z",
+      "challengeActive": true,
+      "challengeStartedAt": "2026-10-02T08:00:03.149Z"
+    },
+    "usr_1790928793734_r94il6": {
+      "userId": "usr_1790928793734_r94il6",
+      "startingBalance": 1000000,
+      "availableCash": 1000000,
+      "investedValue": 0,
+      "portfolioValue": 1000000,
+      "totalPnL": 0,
+      "totalReturnPercent": 0,
+      "todayPnL": 0,
+      "realizedPnL": 0,
+      "unrealizedPnL": 0,
+      "tradesCount": 0,
+      "profitableTradesCount": 0,
+      "lossTradesCount": 0,
+      "lastResetAt": "2026-10-02T08:13:13.932Z",
+      "challengeActive": true,
+      "challengeStartedAt": "2026-10-02T08:13:13.932Z"
+    },
+    "usr_1791969424913_t9sza6": {
+      "userId": "usr_1791969424913_t9sza6",
+      "startingBalance": 1000000,
+      "availableCash": 1000000,
+      "investedValue": 0,
+      "portfolioValue": 1000000,
+      "totalPnL": 0,
+      "totalReturnPercent": 0,
+      "todayPnL": 0,
+      "realizedPnL": 0,
+      "unrealizedPnL": 0,
+      "tradesCount": 0,
+      "profitableTradesCount": 0,
+      "lossTradesCount": 0,
+      "lastResetAt": "2026-10-14T09:17:05.064Z",
+      "challengeActive": true,
+      "challengeStartedAt": "2026-10-14T09:17:05.064Z"
+    },
+    "usr_1791975899974_kongpz": {
+      "userId": "usr_1791975899974_kongpz",
+      "startingBalance": 1000000,
+      "availableCash": 1000000,
+      "investedValue": 0,
+      "portfolioValue": 1000000,
+      "totalPnL": 0,
+      "totalReturnPercent": 0,
+      "todayPnL": 0,
+      "realizedPnL": 0,
+      "unrealizedPnL": 0,
+      "tradesCount": 0,
+      "profitableTradesCount": 0,
+      "lossTradesCount": 0,
+      "lastResetAt": "2026-10-14T11:05:00.199Z",
+      "challengeActive": true,
+      "challengeStartedAt": "2026-10-14T11:05:00.199Z"
+    },
+    "usr_1791976387939_bkba5l": {
+      "userId": "usr_1791976387939_bkba5l",
+      "startingBalance": 1000000,
+      "availableCash": 1000000,
+      "investedValue": 0,
+      "portfolioValue": 1000000,
+      "totalPnL": 0,
+      "totalReturnPercent": 0,
+      "todayPnL": 0,
+      "realizedPnL": 0,
+      "unrealizedPnL": 0,
+      "tradesCount": 0,
+      "profitableTradesCount": 0,
+      "lossTradesCount": 0,
+      "lastResetAt": "2026-10-14T11:13:08.108Z",
+      "challengeActive": true,
+      "challengeStartedAt": "2026-10-14T11:13:08.108Z"
+    },
+    "usr_1791976438302_ndfjgq": {
+      "userId": "usr_1791976438302_ndfjgq",
+      "startingBalance": 1000000,
+      "availableCash": 1000000,
+      "investedValue": 0,
+      "portfolioValue": 1000000,
+      "totalPnL": 0,
+      "totalReturnPercent": 0,
+      "todayPnL": 0,
+      "realizedPnL": 0,
+      "unrealizedPnL": 0,
+      "tradesCount": 0,
+      "profitableTradesCount": 0,
+      "lossTradesCount": 0,
+      "lastResetAt": "2026-10-14T11:13:58.467Z",
+      "challengeActive": true,
+      "challengeStartedAt": "2026-10-14T11:13:58.467Z"
+    },
+    "usr_1792045983282_82x4f8": {
+      "userId": "usr_1792045983282_82x4f8",
+      "startingBalance": 1000000,
+      "availableCash": 1000000,
+      "investedValue": 0,
+      "portfolioValue": 1000000,
+      "totalPnL": 0,
+      "totalReturnPercent": 0,
+      "todayPnL": 0,
+      "realizedPnL": 0,
+      "unrealizedPnL": 0,
+      "tradesCount": 0,
+      "profitableTradesCount": 0,
+      "lossTradesCount": 0,
+      "lastResetAt": "2026-10-15T06:33:03.523Z",
+      "challengeActive": true,
+      "challengeStartedAt": "2026-10-15T06:33:03.523Z"
+    },
+    "usr_1792058911131_fg96gy": {
+      "userId": "usr_1792058911131_fg96gy",
+      "startingBalance": 1000000,
+      "availableCash": 1000000,
+      "investedValue": 0,
+      "portfolioValue": 1000000,
+      "totalPnL": 0,
+      "totalReturnPercent": 0,
+      "todayPnL": 0,
+      "realizedPnL": 0,
+      "unrealizedPnL": 0,
+      "tradesCount": 0,
+      "profitableTradesCount": 0,
+      "lossTradesCount": 0,
+      "lastResetAt": "2026-10-15T10:08:31.131Z",
+      "challengeActive": true,
+      "challengeStartedAt": "2026-10-15T10:08:31.131Z"
+    },
+    "usr_1792058944741_1adko3": {
+      "userId": "usr_1792058944741_1adko3",
+      "startingBalance": 1000000,
+      "availableCash": 1000000,
+      "investedValue": 0,
+      "portfolioValue": 1000000,
+      "totalPnL": 0,
+      "totalReturnPercent": 0,
+      "todayPnL": 0,
+      "realizedPnL": 0,
+      "unrealizedPnL": 0,
+      "tradesCount": 0,
+      "profitableTradesCount": 0,
+      "lossTradesCount": 0,
+      "lastResetAt": "2026-10-15T10:09:04.890Z",
+      "challengeActive": true,
+      "challengeStartedAt": "2026-10-15T10:09:04.890Z"
+    }
+  },
+  "holdings": [],
+  "orders": [],
+  "watchlists": [
+    {
+      "id": "wl_usr_demo123_RELIANCE",
+      "userId": "usr_demo123",
+      "symbol": "RELIANCE",
+      "companyName": "Reliance Industries Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T16:48:42.295Z"
+    },
+    {
+      "id": "wl_usr_demo123_TCS",
+      "userId": "usr_demo123",
+      "symbol": "TCS",
+      "companyName": "Tata Consultancy Services Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T16:48:42.295Z"
+    },
+    {
+      "id": "wl_usr_demo123_HDFCBANK",
+      "userId": "usr_demo123",
+      "symbol": "HDFCBANK",
+      "companyName": "HDFC Bank Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T16:48:42.295Z"
+    },
+    {
+      "id": "wl_usr_demo123_INFY",
+      "userId": "usr_demo123",
+      "symbol": "INFY",
+      "companyName": "Infosys Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T16:48:42.295Z"
+    },
+    {
+      "id": "wl_usr_demo123_ICICIBANK",
+      "userId": "usr_demo123",
+      "symbol": "ICICIBANK",
+      "companyName": "ICICI Bank Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T16:48:42.295Z"
+    },
+    {
+      "id": "wl_usr_demo123_SBIN",
+      "userId": "usr_demo123",
+      "symbol": "SBIN",
+      "companyName": "State Bank of India",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T16:48:42.295Z"
+    },
+    {
+      "id": "wl_usr_1790873322392_rzp940_RELIANCE",
+      "userId": "usr_1790873322392_rzp940",
+      "symbol": "RELIANCE",
+      "companyName": "Reliance Industries Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T16:48:42.392Z"
+    },
+    {
+      "id": "wl_usr_1790873322392_rzp940_HDFCBANK",
+      "userId": "usr_1790873322392_rzp940",
+      "symbol": "HDFCBANK",
+      "companyName": "HDFC Bank Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T16:48:42.392Z"
+    },
+    {
+      "id": "wl_usr_1790873322392_rzp940_INFY",
+      "userId": "usr_1790873322392_rzp940",
+      "symbol": "INFY",
+      "companyName": "Infosys Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T16:48:42.392Z"
+    },
+    {
+      "id": "wl_usr_1790873322392_rzp940_SBIN",
+      "userId": "usr_1790873322392_rzp940",
+      "symbol": "SBIN",
+      "companyName": "State Bank of India",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T16:48:42.392Z"
+    },
+    {
+      "id": "wl_usr_1790873349035_70n350_RELIANCE",
+      "userId": "usr_1790873349035_70n350",
+      "symbol": "RELIANCE",
+      "companyName": "Reliance Industries Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T16:49:09.035Z"
+    },
+    {
+      "id": "wl_usr_1790873349035_70n350_HDFCBANK",
+      "userId": "usr_1790873349035_70n350",
+      "symbol": "HDFCBANK",
+      "companyName": "HDFC Bank Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T16:49:09.035Z"
+    },
+    {
+      "id": "wl_usr_1790873349035_70n350_INFY",
+      "userId": "usr_1790873349035_70n350",
+      "symbol": "INFY",
+      "companyName": "Infosys Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T16:49:09.035Z"
+    },
+    {
+      "id": "wl_usr_1790873349035_70n350_SBIN",
+      "userId": "usr_1790873349035_70n350",
+      "symbol": "SBIN",
+      "companyName": "State Bank of India",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T16:49:09.035Z"
+    },
+    {
+      "id": "wl_usr_1790873877703_wt0gvi_RELIANCE",
+      "userId": "usr_1790873877703_wt0gvi",
+      "symbol": "RELIANCE",
+      "companyName": "Reliance Industries Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T16:57:57.704Z"
+    },
+    {
+      "id": "wl_usr_1790873877703_wt0gvi_HDFCBANK",
+      "userId": "usr_1790873877703_wt0gvi",
+      "symbol": "HDFCBANK",
+      "companyName": "HDFC Bank Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T16:57:57.704Z"
+    },
+    {
+      "id": "wl_usr_1790873877703_wt0gvi_INFY",
+      "userId": "usr_1790873877703_wt0gvi",
+      "symbol": "INFY",
+      "companyName": "Infosys Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T16:57:57.704Z"
+    },
+    {
+      "id": "wl_usr_1790873877703_wt0gvi_SBIN",
+      "userId": "usr_1790873877703_wt0gvi",
+      "symbol": "SBIN",
+      "companyName": "State Bank of India",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T16:57:57.704Z"
+    },
+    {
+      "id": "wl_usr_1790874266128_cneoq7_RELIANCE",
+      "userId": "usr_1790874266128_cneoq7",
+      "symbol": "RELIANCE",
+      "companyName": "Reliance Industries Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T17:04:26.128Z"
+    },
+    {
+      "id": "wl_usr_1790874266128_cneoq7_HDFCBANK",
+      "userId": "usr_1790874266128_cneoq7",
+      "symbol": "HDFCBANK",
+      "companyName": "HDFC Bank Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T17:04:26.128Z"
+    },
+    {
+      "id": "wl_usr_1790874266128_cneoq7_INFY",
+      "userId": "usr_1790874266128_cneoq7",
+      "symbol": "INFY",
+      "companyName": "Infosys Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T17:04:26.128Z"
+    },
+    {
+      "id": "wl_usr_1790874266128_cneoq7_SBIN",
+      "userId": "usr_1790874266128_cneoq7",
+      "symbol": "SBIN",
+      "companyName": "State Bank of India",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T17:04:26.128Z"
+    },
+    {
+      "id": "wl_usr_1790874328337_3pdq13_RELIANCE",
+      "userId": "usr_1790874328337_3pdq13",
+      "symbol": "RELIANCE",
+      "companyName": "Reliance Industries Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T17:05:28.338Z"
+    },
+    {
+      "id": "wl_usr_1790874328337_3pdq13_HDFCBANK",
+      "userId": "usr_1790874328337_3pdq13",
+      "symbol": "HDFCBANK",
+      "companyName": "HDFC Bank Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T17:05:28.338Z"
+    },
+    {
+      "id": "wl_usr_1790874328337_3pdq13_INFY",
+      "userId": "usr_1790874328337_3pdq13",
+      "symbol": "INFY",
+      "companyName": "Infosys Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T17:05:28.338Z"
+    },
+    {
+      "id": "wl_usr_1790874328337_3pdq13_SBIN",
+      "userId": "usr_1790874328337_3pdq13",
+      "symbol": "SBIN",
+      "companyName": "State Bank of India",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T17:05:28.338Z"
+    },
+    {
+      "id": "wl_usr_1790874663792_g785l0_RELIANCE",
+      "userId": "usr_1790874663792_g785l0",
+      "symbol": "RELIANCE",
+      "companyName": "Reliance Industries Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T17:11:03.793Z"
+    },
+    {
+      "id": "wl_usr_1790874663792_g785l0_HDFCBANK",
+      "userId": "usr_1790874663792_g785l0",
+      "symbol": "HDFCBANK",
+      "companyName": "HDFC Bank Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T17:11:03.793Z"
+    },
+    {
+      "id": "wl_usr_1790874663792_g785l0_INFY",
+      "userId": "usr_1790874663792_g785l0",
+      "symbol": "INFY",
+      "companyName": "Infosys Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T17:11:03.793Z"
+    },
+    {
+      "id": "wl_usr_1790874663792_g785l0_SBIN",
+      "userId": "usr_1790874663792_g785l0",
+      "symbol": "SBIN",
+      "companyName": "State Bank of India",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T17:11:03.793Z"
+    },
+    {
+      "id": "wl_usr_1790875101713_4fftkd_RELIANCE",
+      "userId": "usr_1790875101713_4fftkd",
+      "symbol": "RELIANCE",
+      "companyName": "Reliance Industries Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T17:18:21.714Z"
+    },
+    {
+      "id": "wl_usr_1790875101713_4fftkd_HDFCBANK",
+      "userId": "usr_1790875101713_4fftkd",
+      "symbol": "HDFCBANK",
+      "companyName": "HDFC Bank Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T17:18:21.714Z"
+    },
+    {
+      "id": "wl_usr_1790875101713_4fftkd_INFY",
+      "userId": "usr_1790875101713_4fftkd",
+      "symbol": "INFY",
+      "companyName": "Infosys Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T17:18:21.714Z"
+    },
+    {
+      "id": "wl_usr_1790875101713_4fftkd_SBIN",
+      "userId": "usr_1790875101713_4fftkd",
+      "symbol": "SBIN",
+      "companyName": "State Bank of India",
+      "exchange": "NSE",
+      "addedAt": "2026-10-01T17:18:21.714Z"
+    },
+    {
+      "id": "wl_usr_1790926649876_7cqjie_RELIANCE",
+      "userId": "usr_1790926649876_7cqjie",
+      "symbol": "RELIANCE",
+      "companyName": "Reliance Industries Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T07:37:29.877Z"
+    },
+    {
+      "id": "wl_usr_1790926649876_7cqjie_TCS",
+      "userId": "usr_1790926649876_7cqjie",
+      "symbol": "TCS",
+      "companyName": "Tata Consultancy Services Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T07:37:29.877Z"
+    },
+    {
+      "id": "wl_usr_1790926649876_7cqjie_HDFCBANK",
+      "userId": "usr_1790926649876_7cqjie",
+      "symbol": "HDFCBANK",
+      "companyName": "HDFC Bank Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T07:37:29.877Z"
+    },
+    {
+      "id": "wl_usr_1790926649876_7cqjie_INFY",
+      "userId": "usr_1790926649876_7cqjie",
+      "symbol": "INFY",
+      "companyName": "Infosys Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T07:37:29.877Z"
+    },
+    {
+      "id": "wl_usr_1790926649876_7cqjie_SBIN",
+      "userId": "usr_1790926649876_7cqjie",
+      "symbol": "SBIN",
+      "companyName": "State Bank of India",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T07:37:29.877Z"
+    },
+    {
+      "id": "wl_usr_1790926660174_3dwqhy_RELIANCE",
+      "userId": "usr_1790926660174_3dwqhy",
+      "symbol": "RELIANCE",
+      "companyName": "Reliance Industries Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T07:37:40.174Z"
+    },
+    {
+      "id": "wl_usr_1790926660174_3dwqhy_TCS",
+      "userId": "usr_1790926660174_3dwqhy",
+      "symbol": "TCS",
+      "companyName": "Tata Consultancy Services Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T07:37:40.174Z"
+    },
+    {
+      "id": "wl_usr_1790926660174_3dwqhy_HDFCBANK",
+      "userId": "usr_1790926660174_3dwqhy",
+      "symbol": "HDFCBANK",
+      "companyName": "HDFC Bank Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T07:37:40.174Z"
+    },
+    {
+      "id": "wl_usr_1790926660174_3dwqhy_INFY",
+      "userId": "usr_1790926660174_3dwqhy",
+      "symbol": "INFY",
+      "companyName": "Infosys Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T07:37:40.174Z"
+    },
+    {
+      "id": "wl_usr_1790926660174_3dwqhy_SBIN",
+      "userId": "usr_1790926660174_3dwqhy",
+      "symbol": "SBIN",
+      "companyName": "State Bank of India",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T07:37:40.174Z"
+    },
+    {
+      "id": "wl_usr_1790926669667_3ujhch_RELIANCE",
+      "userId": "usr_1790926669667_3ujhch",
+      "symbol": "RELIANCE",
+      "companyName": "Reliance Industries Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T07:37:49.668Z"
+    },
+    {
+      "id": "wl_usr_1790926669667_3ujhch_HDFCBANK",
+      "userId": "usr_1790926669667_3ujhch",
+      "symbol": "HDFCBANK",
+      "companyName": "HDFC Bank Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T07:37:49.668Z"
+    },
+    {
+      "id": "wl_usr_1790926669667_3ujhch_INFY",
+      "userId": "usr_1790926669667_3ujhch",
+      "symbol": "INFY",
+      "companyName": "Infosys Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T07:37:49.668Z"
+    },
+    {
+      "id": "wl_usr_1790926669667_3ujhch_SBIN",
+      "userId": "usr_1790926669667_3ujhch",
+      "symbol": "SBIN",
+      "companyName": "State Bank of India",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T07:37:49.668Z"
+    },
+    {
+      "id": "wl_usr_1790927167957_oux4zq_RELIANCE",
+      "userId": "usr_1790927167957_oux4zq",
+      "symbol": "RELIANCE",
+      "companyName": "Reliance Industries Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T07:46:07.957Z"
+    },
+    {
+      "id": "wl_usr_1790927167957_oux4zq_HDFCBANK",
+      "userId": "usr_1790927167957_oux4zq",
+      "symbol": "HDFCBANK",
+      "companyName": "HDFC Bank Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T07:46:07.957Z"
+    },
+    {
+      "id": "wl_usr_1790927167957_oux4zq_INFY",
+      "userId": "usr_1790927167957_oux4zq",
+      "symbol": "INFY",
+      "companyName": "Infosys Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T07:46:07.957Z"
+    },
+    {
+      "id": "wl_usr_1790927167957_oux4zq_SBIN",
+      "userId": "usr_1790927167957_oux4zq",
+      "symbol": "SBIN",
+      "companyName": "State Bank of India",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T07:46:07.957Z"
+    },
+    {
+      "id": "wl_usr_1790927789587_ejm5ds_RELIANCE",
+      "userId": "usr_1790927789587_ejm5ds",
+      "symbol": "RELIANCE",
+      "companyName": "Reliance Industries Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T07:56:29.587Z"
+    },
+    {
+      "id": "wl_usr_1790927789587_ejm5ds_HDFCBANK",
+      "userId": "usr_1790927789587_ejm5ds",
+      "symbol": "HDFCBANK",
+      "companyName": "HDFC Bank Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T07:56:29.587Z"
+    },
+    {
+      "id": "wl_usr_1790927789587_ejm5ds_INFY",
+      "userId": "usr_1790927789587_ejm5ds",
+      "symbol": "INFY",
+      "companyName": "Infosys Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T07:56:29.587Z"
+    },
+    {
+      "id": "wl_usr_1790927789587_ejm5ds_SBIN",
+      "userId": "usr_1790927789587_ejm5ds",
+      "symbol": "SBIN",
+      "companyName": "State Bank of India",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T07:56:29.587Z"
+    },
+    {
+      "id": "wl_usr_1790928002953_36rv9i_RELIANCE",
+      "userId": "usr_1790928002953_36rv9i",
+      "symbol": "RELIANCE",
+      "companyName": "Reliance Industries Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T08:00:02.953Z"
+    },
+    {
+      "id": "wl_usr_1790928002953_36rv9i_HDFCBANK",
+      "userId": "usr_1790928002953_36rv9i",
+      "symbol": "HDFCBANK",
+      "companyName": "HDFC Bank Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T08:00:02.953Z"
+    },
+    {
+      "id": "wl_usr_1790928002953_36rv9i_INFY",
+      "userId": "usr_1790928002953_36rv9i",
+      "symbol": "INFY",
+      "companyName": "Infosys Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T08:00:02.953Z"
+    },
+    {
+      "id": "wl_usr_1790928002953_36rv9i_SBIN",
+      "userId": "usr_1790928002953_36rv9i",
+      "symbol": "SBIN",
+      "companyName": "State Bank of India",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T08:00:02.953Z"
+    },
+    {
+      "id": "wl_usr_1790928793734_r94il6_RELIANCE",
+      "userId": "usr_1790928793734_r94il6",
+      "symbol": "RELIANCE",
+      "companyName": "Reliance Industries Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T08:13:13.734Z"
+    },
+    {
+      "id": "wl_usr_1790928793734_r94il6_HDFCBANK",
+      "userId": "usr_1790928793734_r94il6",
+      "symbol": "HDFCBANK",
+      "companyName": "HDFC Bank Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T08:13:13.734Z"
+    },
+    {
+      "id": "wl_usr_1790928793734_r94il6_INFY",
+      "userId": "usr_1790928793734_r94il6",
+      "symbol": "INFY",
+      "companyName": "Infosys Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T08:13:13.734Z"
+    },
+    {
+      "id": "wl_usr_1790928793734_r94il6_SBIN",
+      "userId": "usr_1790928793734_r94il6",
+      "symbol": "SBIN",
+      "companyName": "State Bank of India",
+      "exchange": "NSE",
+      "addedAt": "2026-10-02T08:13:13.734Z"
+    },
+    {
+      "id": "wl_usr_1791969424913_t9sza6_RELIANCE",
+      "userId": "usr_1791969424913_t9sza6",
+      "symbol": "RELIANCE",
+      "companyName": "Reliance Industries Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-14T09:17:04.914Z"
+    },
+    {
+      "id": "wl_usr_1791969424913_t9sza6_HDFCBANK",
+      "userId": "usr_1791969424913_t9sza6",
+      "symbol": "HDFCBANK",
+      "companyName": "HDFC Bank Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-14T09:17:04.914Z"
+    },
+    {
+      "id": "wl_usr_1791969424913_t9sza6_INFY",
+      "userId": "usr_1791969424913_t9sza6",
+      "symbol": "INFY",
+      "companyName": "Infosys Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-14T09:17:04.914Z"
+    },
+    {
+      "id": "wl_usr_1791969424913_t9sza6_SBIN",
+      "userId": "usr_1791969424913_t9sza6",
+      "symbol": "SBIN",
+      "companyName": "State Bank of India",
+      "exchange": "NSE",
+      "addedAt": "2026-10-14T09:17:04.914Z"
+    },
+    {
+      "id": "wl_usr_1791975899974_kongpz_RELIANCE",
+      "userId": "usr_1791975899974_kongpz",
+      "symbol": "RELIANCE",
+      "companyName": "Reliance Industries Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-14T11:04:59.975Z"
+    },
+    {
+      "id": "wl_usr_1791975899974_kongpz_HDFCBANK",
+      "userId": "usr_1791975899974_kongpz",
+      "symbol": "HDFCBANK",
+      "companyName": "HDFC Bank Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-14T11:04:59.975Z"
+    },
+    {
+      "id": "wl_usr_1791975899974_kongpz_INFY",
+      "userId": "usr_1791975899974_kongpz",
+      "symbol": "INFY",
+      "companyName": "Infosys Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-14T11:04:59.975Z"
+    },
+    {
+      "id": "wl_usr_1791975899974_kongpz_SBIN",
+      "userId": "usr_1791975899974_kongpz",
+      "symbol": "SBIN",
+      "companyName": "State Bank of India",
+      "exchange": "NSE",
+      "addedAt": "2026-10-14T11:04:59.975Z"
+    },
+    {
+      "id": "wl_usr_1791976387939_bkba5l_RELIANCE",
+      "userId": "usr_1791976387939_bkba5l",
+      "symbol": "RELIANCE",
+      "companyName": "Reliance Industries Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-14T11:13:07.939Z"
+    },
+    {
+      "id": "wl_usr_1791976387939_bkba5l_HDFCBANK",
+      "userId": "usr_1791976387939_bkba5l",
+      "symbol": "HDFCBANK",
+      "companyName": "HDFC Bank Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-14T11:13:07.939Z"
+    },
+    {
+      "id": "wl_usr_1791976387939_bkba5l_INFY",
+      "userId": "usr_1791976387939_bkba5l",
+      "symbol": "INFY",
+      "companyName": "Infosys Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-14T11:13:07.939Z"
+    },
+    {
+      "id": "wl_usr_1791976387939_bkba5l_SBIN",
+      "userId": "usr_1791976387939_bkba5l",
+      "symbol": "SBIN",
+      "companyName": "State Bank of India",
+      "exchange": "NSE",
+      "addedAt": "2026-10-14T11:13:07.939Z"
+    },
+    {
+      "id": "wl_usr_1791976438302_ndfjgq_RELIANCE",
+      "userId": "usr_1791976438302_ndfjgq",
+      "symbol": "RELIANCE",
+      "companyName": "Reliance Industries Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-14T11:13:58.303Z"
+    },
+    {
+      "id": "wl_usr_1791976438302_ndfjgq_HDFCBANK",
+      "userId": "usr_1791976438302_ndfjgq",
+      "symbol": "HDFCBANK",
+      "companyName": "HDFC Bank Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-14T11:13:58.303Z"
+    },
+    {
+      "id": "wl_usr_1791976438302_ndfjgq_INFY",
+      "userId": "usr_1791976438302_ndfjgq",
+      "symbol": "INFY",
+      "companyName": "Infosys Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-14T11:13:58.303Z"
+    },
+    {
+      "id": "wl_usr_1791976438302_ndfjgq_SBIN",
+      "userId": "usr_1791976438302_ndfjgq",
+      "symbol": "SBIN",
+      "companyName": "State Bank of India",
+      "exchange": "NSE",
+      "addedAt": "2026-10-14T11:13:58.303Z"
+    },
+    {
+      "id": "wl_usr_1792045983282_82x4f8_RELIANCE",
+      "userId": "usr_1792045983282_82x4f8",
+      "symbol": "RELIANCE",
+      "companyName": "Reliance Industries Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-15T06:33:03.282Z"
+    },
+    {
+      "id": "wl_usr_1792045983282_82x4f8_HDFCBANK",
+      "userId": "usr_1792045983282_82x4f8",
+      "symbol": "HDFCBANK",
+      "companyName": "HDFC Bank Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-15T06:33:03.282Z"
+    },
+    {
+      "id": "wl_usr_1792045983282_82x4f8_INFY",
+      "userId": "usr_1792045983282_82x4f8",
+      "symbol": "INFY",
+      "companyName": "Infosys Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-15T06:33:03.282Z"
+    },
+    {
+      "id": "wl_usr_1792045983282_82x4f8_SBIN",
+      "userId": "usr_1792045983282_82x4f8",
+      "symbol": "SBIN",
+      "companyName": "State Bank of India",
+      "exchange": "NSE",
+      "addedAt": "2026-10-15T06:33:03.282Z"
+    },
+    {
+      "id": "wl_usr_1792058911131_fg96gy_RELIANCE",
+      "userId": "usr_1792058911131_fg96gy",
+      "symbol": "RELIANCE",
+      "companyName": "Reliance Industries Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-15T10:08:31.132Z"
+    },
+    {
+      "id": "wl_usr_1792058911131_fg96gy_TCS",
+      "userId": "usr_1792058911131_fg96gy",
+      "symbol": "TCS",
+      "companyName": "Tata Consultancy Services Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-15T10:08:31.132Z"
+    },
+    {
+      "id": "wl_usr_1792058911131_fg96gy_HDFCBANK",
+      "userId": "usr_1792058911131_fg96gy",
+      "symbol": "HDFCBANK",
+      "companyName": "HDFC Bank Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-15T10:08:31.132Z"
+    },
+    {
+      "id": "wl_usr_1792058911131_fg96gy_INFY",
+      "userId": "usr_1792058911131_fg96gy",
+      "symbol": "INFY",
+      "companyName": "Infosys Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-15T10:08:31.132Z"
+    },
+    {
+      "id": "wl_usr_1792058911131_fg96gy_SBIN",
+      "userId": "usr_1792058911131_fg96gy",
+      "symbol": "SBIN",
+      "companyName": "State Bank of India",
+      "exchange": "NSE",
+      "addedAt": "2026-10-15T10:08:31.132Z"
+    },
+    {
+      "id": "wl_usr_1792058944741_1adko3_RELIANCE",
+      "userId": "usr_1792058944741_1adko3",
+      "symbol": "RELIANCE",
+      "companyName": "Reliance Industries Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-15T10:09:04.741Z"
+    },
+    {
+      "id": "wl_usr_1792058944741_1adko3_HDFCBANK",
+      "userId": "usr_1792058944741_1adko3",
+      "symbol": "HDFCBANK",
+      "companyName": "HDFC Bank Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-15T10:09:04.741Z"
+    },
+    {
+      "id": "wl_usr_1792058944741_1adko3_INFY",
+      "userId": "usr_1792058944741_1adko3",
+      "symbol": "INFY",
+      "companyName": "Infosys Ltd.",
+      "exchange": "NSE",
+      "addedAt": "2026-10-15T10:09:04.741Z"
+    },
+    {
+      "id": "wl_usr_1792058944741_1adko3_SBIN",
+      "userId": "usr_1792058944741_1adko3",
+      "symbol": "SBIN",
+      "companyName": "State Bank of India",
+      "exchange": "NSE",
+      "addedAt": "2026-10-15T10:09:04.741Z"
+    }
+  ],
+  "chargesConfig": {
+    "brokerageRate": 0.0003,
+    "brokerageMaxPerOrder": 20,
+    "sttDeliveryRate": 0.001,
+    "exchangeTurnoverRate": 0.0000345,
+    "gstRate": 0.18,
+    "stampDutyRate": 0.00015
+  }
+}
